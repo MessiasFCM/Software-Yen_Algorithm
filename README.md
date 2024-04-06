@@ -29,7 +29,7 @@ Cidades são numeradas de 1 a n, onde a cidade 1 é Mysthollow e a cidade n é L
 Para executar o programa, siga estes passos:
 
 1. Compile o código utilizando o comando `make` no diretório do projeto.
-2. Execute o programa com `./yen_algorithm <input_file> <output_file>`, onde `<input_file>` é o arquivo contendo os dados de entrada conforme descrito acima e `<output_file>` os arquivos de saída.
+2. Execute o programa com `./yen_algorithm -i <input_file> -o <output_file>`, onde `<input_file>` é o arquivo contendo os dados de entrada conforme descrito acima e `<output_file>` os arquivos de saída.
 
 ## 💻 Tecnologias Utilizadas
 
