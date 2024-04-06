@@ -13,7 +13,7 @@ OBJS = $(patsubst %,$(OBJDIR)/%,$(_OBJS))
 CPPFLAGS = -I$(INCDIR)
 
 # Diretiva all para compilar o programa principal
-all: tp1 
+all: yen_algorithm
 
 # Linkagem dos arquivos objetos para gerar o executável tp1
 tp1: $(OBJS)  
